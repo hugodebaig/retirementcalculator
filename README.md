@@ -1,6 +1,6 @@
 # Retirement Calculator
 
-A visual, interactive retirement calculator built for Stream. Allows users to see how small changes to their salary, contributions, and annual raises impact their retirement outcomes.
+A visual, interactive retirement calculator. Allows users to see how small changes to their salary, contributions, and annual raises impact their retirement outcomes.
 
 ## Features
 
