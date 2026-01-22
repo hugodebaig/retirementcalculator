@@ -7,7 +7,7 @@ A visual, interactive retirement calculator. Allows users to see how small chang
 - 5 interactive sliders with real-time updates
 - Visual pension pot projection chart
 - Mobile-optimised responsive design
-- Stream brand styling
+- Brand styling
 
 ## Getting Started
 
